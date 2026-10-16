@@ -22,7 +22,6 @@ ESB-QA-Assessment/
 ├── tests/
 │   ├── cart.spec.ts
 │   ├── checkout.spec.ts
-│   ├── example.spec.ts
 │   ├── login.spec.ts
 │   └── sorting.spec.ts
 ├── playwright.config.ts
@@ -67,7 +66,8 @@ Installation
 
 Clone the repository and navigate to the project directory:
 
-git clone <repository-url>
+git clone 
+https://github.com/Tomitomi23/ESB-QA-Automation
 cd ESB-QA-Assessment
 
 Install project dependencies:
@@ -111,4 +111,4 @@ Test Execution Result
 
 The complete test suite was executed locally using Chromium.
 
-Latest result: 7 passed, 0 failed
+Latest result: 5 passed, 0 failed
